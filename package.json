@@ -1,0 +1,12 @@
+{
+  "name": "pirate-ship-battle",
+  "version": "1.0.0",
+  "description": "3D Pirate Ship Battle - Local Multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
